@@ -1,0 +1,136 @@
+
+body{
+
+  margin: 0;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+.h1{
+  color: #11999E;
+  font-size: 5.625rem;
+  line-height: 1;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #0f3460;
+  font-family: 'Merriweather',serif;
+  font-weight: normal;
+  font-size: 2.625rem;
+  }
+h3{
+  color: #81b214;
+  font-family: 'Merriweather',serif;
+}
+p{
+  font-family: 'Sacramento', cursive;
+}
+a{
+color:  #11999E;
+font-family: 'Merriweather',serif;
+font-size: 50%;
+margin: 10px 20px;
+text-decoration: none;
+}
+a:hover{
+color: #0f3460;
+}
+
+.top-container{
+  background-color: #d2f6c5;
+  position:relative;
+  padding-top: 30px;
+  width: auto;
+  height: auto;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottom-container{
+  margin: 50px auto 100px auto;
+  background-color:  #d2f6c5;
+  padding: 50px 0 50px
+}
+.profile1{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+}
+
+.round2-img {
+  margin-left: 6em;
+  width: 25%;
+  float: none;
+  }
+
+.contact-me{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+}
+.contact-me-img{
+  margin-left: 6em;
+  width: 25%;
+  float: none;
+}
+.btn{
+background-color:#44c767;
+-webkit-border-top-left-radius:28px;
+-moz-border-radius-topleft:28px;
+border-top-left-radius:28px;
+-webkit-border-top-right-radius:28px;
+-moz-border-radius-topright:28px;
+border-top-right-radius:28px;
+-webkit-border-bottom-right-radius:28px;
+-moz-border-radius-bottomright:28px;
+border-bottom-right-radius:28px;
+-webkit-border-bottom-left-radius:28px;
+-moz-border-radius-bottomleft:28px;
+border-bottom-left-radius:28px;
+text-indent:0;
+border:1px solid #18ab29;
+display:inline-block;
+color:#ffffff;
+font-family:Arial Black;
+font-size:15px;
+font-weight:bold;
+font-style:normal;
+height:33px;
+line-height:33px;
+width:118px;
+text-decoration:none;
+text-align:center;
+text-shadow:0 1px 0 #2f6627;
+}
+.classname:hover {
+background-color:#5cbf2a;
+}
+.classname:active {
+position:absolute;
+top:1px;
+}
+
+
+.pro{
+  text-decoration: underline;
+}
+.copyright{
+  color: #0f3460;
+  font-size: 40px;
+  padding: 20px 0;
+
+}
